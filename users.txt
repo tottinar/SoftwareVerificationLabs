@@ -1,5 +1,9 @@
 Alexander Ryabov
 Pavel Chikinov
+<<<<<<< HEAD
 Kornyuhova Anya
 Makridin Valery
 Logunov Pavel
+=======
+Konyshev Sergey
+>>>>>>> 73efbaa9dd9c5e4475e0b4bbde4102138574f7a1
