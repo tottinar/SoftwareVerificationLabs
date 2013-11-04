@@ -5,9 +5,5 @@ Kornyuhova Anya
 Makridin Valery
 Logunov Pavel
 Konyshev Sergey
-<<<<<<< HEAD
-Bespamytnov Anton
-=======
 Bespamyatnov Anton
->>>>>>> remotes/origin/wintersoul
-=================
+
